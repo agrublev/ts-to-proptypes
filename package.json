@@ -26,7 +26,7 @@
         "flow-to-ts": "^1.0.16",
         "jscodeshift": "^0.6.4",
         "react": "^16.8.6",
-        "standard-version": "^6.0.1",
+        "standard-version": "^8.0.1",
         "ansi-colors": "^3.2.4",
         "babel-traverse": "^6.26.0",
         "boxen": "^3.2.0",
